@@ -1,0 +1,21 @@
+body 
+{
+    margin:0;
+    padding:0;
+}
+#images
+{
+    display: flex;
+    flex-direction: column;
+}
+img
+{
+    width:350px;
+    height:350px;
+    margin-top: 20px;
+    margin-left: 35px;
+}
+h3{
+    margin-left: 35px;
+    
+}
